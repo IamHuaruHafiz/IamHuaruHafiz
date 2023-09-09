@@ -1,6 +1,6 @@
 - 👋 Hi, I am Hafiz
 - 👀 My interest is in software development
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I look forward to collaborating on projects
 - 📫 Reach me through:(233)508401057,
                        (233)592089818,
                        hafizhuaru123@gmail.com.
