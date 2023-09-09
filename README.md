@@ -1,5 +1,5 @@
 - 👋 Hi, I am Hafiz
-- 👀 I’m interested in software development
+- 👀 My interest is in software development
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me through:(233)508401057,
                        (233)592089818,
