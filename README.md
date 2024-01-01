@@ -1,11 +1,10 @@
-- 👋 Hi, I am Hafiz
-- 👀 My interest is in software development
-- 💞️ I look forward to collaborating on projects
-- 📫 Reach me through:(233)508401057,
-                       (233)592089818,
-                       hafizhuaru123@gmail.com.
+- Hi, I am Hafiz🧓
+- A mobile developer💻
+- I am self disciplined and hardworking
+- I like to collaborate with like minded individuals to achieve any set goal(s)
+- Reach out to me🤗 on:
+- WhatsApp: (+233)508401057
+- Call☎: (+233)592089818
+- Email📬: hafizhuaru123@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hafiz-huaru-/
 
-<!---
-IamHuaruHafiz/IamHuaruHafiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
